@@ -5,7 +5,7 @@ I consider myself an average backend developer. I like to learn new things as I 
 
 * 🌍  I'm based in Pais Vasco, Spain
 * 🖥️  See my portfolio at [GitHub](http://github.com/zAguss?tab=repositories)
-* ✉️  You can contact me at [hola@zagus.one](mailto:hola@zagus.me)
+* ✉️  You can contact me at [hola@zagus.me](mailto:hola@zagus.me)
 
 <a href="https://www.twitter.com/zAgus__" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/zAgus__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
