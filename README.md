@@ -1,11 +1,10 @@
-Hi👋 I'm zAguss
-==========================
+# Hi, I'm Agus 👋
 
-#### A Full-Stack Developer by day ☼, Batman by night ☾
+Full-Stack Developer from the Basque Country 🇪🇸, I build web products from scratch. Real clients, real projects, no templates.
 
-* 🌍  I'm based in Spain.
-* 🖥️  See my portfolio at [zagus.me](https://zagus.me).
-* ⚙️ I use daily: `.js`, `.svg`, `.java`, `.ts`, `.jsx`, `.tsx`, `.html`, `.css`.
-* ✉️  You can contact me at [hola@zagus.me](mailto:hola@zagus.me).
+* 🌍 Based in Vitoria-Gasteiz, Spain
+* 🌐 Portfolio → [zagus.me](https://zagus.me)
+* ✉️ Contact → [hola@zagus.me](mailto:hola@zagus.me)
+* ⚙️ Stack: `TypeScript` `React` `Next.js` `Node.js` `MongoDB` `Supabase` `Stripe`
 
-
+> Building things. Shipping fast.
